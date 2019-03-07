@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stackCalculator", "stackCal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOperations", "StackOperations\StackOperations.csproj", "{09A1F284-EC1B-42F6-B56D-09F67A24EBA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stackCalculator.tests", "stackCalculator.tests\stackCalculator.tests.csproj", "{BF685B83-6F45-4419-8736-CB84A1740FAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{09A1F284-EC1B-42F6-B56D-09F67A24EBA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09A1F284-EC1B-42F6-B56D-09F67A24EBA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09A1F284-EC1B-42F6-B56D-09F67A24EBA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF685B83-6F45-4419-8736-CB84A1740FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF685B83-6F45-4419-8736-CB84A1740FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF685B83-6F45-4419-8736-CB84A1740FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF685B83-6F45-4419-8736-CB84A1740FAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
