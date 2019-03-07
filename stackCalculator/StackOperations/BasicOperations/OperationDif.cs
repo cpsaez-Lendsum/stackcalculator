@@ -4,7 +4,7 @@ using System.Text;
 
 namespace StackOperations.BasicOperations
 {
-    class OperationDif : IStackItem, IStackOperation
+    public class OperationDif : IStackItem, IStackOperation
     {
         public string Print => throw new NotImplementedException();
 
