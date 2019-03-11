@@ -56,7 +56,7 @@ namespace StackOperations
                 if (newItem != null)
                 {
                     items.Push(newItem);
-                    return;
+                    break;
                 }
             }
 
